@@ -6,8 +6,8 @@ I`am a Nikolay Zemelko, i was born in 1989.
 - [Saint Petersburg University of Service and Economics](http://spbsseu.ru/), Faculty of Economics and Management of Service Enterprises - **Incomplete** 
 - [State Institute of Economics, Finance, Law and Technology](https://gief.ru/), Organisation management - **Incomplete**
 #### Additional education:
-- hexlet.io - Java Developer (*09.2016 - 06.2017*)
-- hexlet.io - Python Developer (*04.2022* to present, **3/4** projects completed)
+- [hexlet.io](https://ru.hexlet.io/)  - Java Developer (*09.2016 - 06.2017*)
+- [hexlet.io](https://ru.hexlet.io/)  - Python Developer (*04.2022* to present, **3/4** projects completed)
 #### Books:
 ##### Now and then:
 - *Grokking Algorithms* :: Aditya Y. Bhargava
