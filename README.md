@@ -1,6 +1,6 @@
 ![enter image description here](https://cdn.mos.cms.futurecdn.net/4MLyNZ66GSMUp7z49Q8k3K-970-80.jpg.webp)
 
-##  I am a Nikolay Zemelko, i was born in 1989.
+##  I am Nikolay Zemelko, i was born in 1989.
 #### About me:
 I love sports (fitness, basketball, volleyball, karting, etc.). I like to play Dota 2. I like to eat burgers, asian food. I love to learn, to gain knowledge. I love watching good movies.
 #### Key skills:
