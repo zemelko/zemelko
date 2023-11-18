@@ -4,11 +4,6 @@
 ### My Portfolio 
 My Links: [linktr/zemelko](https://linktr.ee/zemelko)
 <!--START_SECTION:waka-->
-
-```txt
-
-```
-
 <!--END_SECTION:waka-->
 ## Contacts
 
