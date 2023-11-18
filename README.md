@@ -12,7 +12,6 @@ My Links: [linktr/zemelko](https://linktr.ee/zemelko)
 ```
 
 <!--END_SECTION:waka-->
-
 ## Contacts
 
 * Email: [zemelko1989@gmail.com](mailto:zemelko1989@gmail.com)
@@ -26,3 +25,7 @@ My Links: [linktr/zemelko](https://linktr.ee/zemelko)
 
 ## Badges
 [![LeetCode Stats](https://leetcode.card.workers.dev/zemelko?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/zemelko/)
+
+[![wakatime](https://wakatime.com/badge/user/018be337-25d2-4ac0-bcab-8cae36dd2fe8.svg)](https://wakatime.com/@018be337-25d2-4ac0-bcab-8cae36dd2fe8)
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zemelko&layout=compact)
