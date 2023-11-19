@@ -32,6 +32,6 @@ If you are looking for a talented and dedicated professional who will fit seamle
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/zemelko?font=source_code_pro&extension=null)](https://leetcode.com/zemelko/)
 
-## States
+## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zemelko)](https://github.com/zemelko/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zemelko&layout=compact&langs_count=10)](https://github.com/zemelko/github-readme-stats)
