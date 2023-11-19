@@ -35,7 +35,7 @@ Makefile         0 secs          ░░░░░░░░░░░░░░░�
 
 * LinkedIn: [Resume (EN)](https://www.linkedin.com/in/zemelko)
 * HH: [Resume (RU)](https://hh.ru/resume/4a4435a9ff09e87f6c0039ed1f4e475572454c)
-* HabrCareer: [Resume (RU)](https://career.habr.com/zemelko)
+* HabrCareer: [Resume (RU)](https://career.habr.com/zemelko1)
 
 ## Badges
 
