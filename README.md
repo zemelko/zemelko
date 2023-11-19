@@ -14,6 +14,15 @@ If you are looking for a talented and dedicated professional who will fit seamle
 
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown         26 mins         ████████████████████▓░░░░   82.08 %
+YAML             5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
+HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Makefile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Contacts
