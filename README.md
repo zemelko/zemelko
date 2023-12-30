@@ -14,7 +14,7 @@ If you are looking for a talented and dedicated professional who will fit seamle
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -85,7 +85,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zemelko/zemelko/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2023 10:10:41 UTC
+ Last Updated on 30/12/2023 12:18:40 UTC
 <!--END_SECTION:waka-->
 
 ## Contacts
