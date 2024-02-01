@@ -10,8 +10,6 @@ I use my analytical thinking and creative problem-solving abilities to help crea
 
 If you are looking for a talented and dedicated professional who will fit seamlessly into your team and help you achieve your goals - I am the perfect candidate for you.
 
-## My Portfolio [linktr/zemelko](https://linktr.ee/zemelko)
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2037%20mins-blue)
@@ -91,13 +89,11 @@ HTML                     1 repo              ███░░░░░░░░�
 
 * Email: [zemelko1989@gmail.com](mailto:zemelko1989@gmail.com)
 * Telegram: [@suchawiseman](https://t.me/suchawiseman)
-* LinkedIn: [in/zemelko](https://www.linkedin.com/in/zemelko)
+
 
 ### Resume
 
-* LinkedIn: [Resume (EN)](https://www.linkedin.com/in/zemelko)
 * HH: [Resume (RU)](https://hh.ru/resume/4a4435a9ff09e87f6c0039ed1f4e475572454c)
-* HabrCareer: [Resume (RU)](https://career.habr.com/zemelko1)
 
 ## Badges
 
