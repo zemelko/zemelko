@@ -1,15 +1,7 @@
 ## About me
 Hi there! My name is Nikolay Zemelko. 
 
-I am an Python developer with knowledge in technologies such as **Django**, **PostgreSQL**, **MySQL**, **Flask**, **Docker**, **FastAPI**, **Redis**, **Celery**, **Linux**, **Git**, **CI/CD**, **Postman**, **RESTful Web Services**, **HTML**, **HTTP**, **OOP**.
-
-In addition to my professional skills, I also took part in the open project friends.hexlet.io, where I embodied my knowledge in creating a leaderboard.
-I always strive for self-development and improving my skills. I am highly responsible and accurate in my work, I am always ready to take on additional tasks and work in a team.
-
-I use my analytical thinking and creative problem-solving abilities to help create high-quality software.
-
-If you are looking for a talented and dedicated professional who will fit seamlessly into your team and help you achieve your goals - I am the perfect candidate for you.
-
+I am an Python developer.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2037%20mins-blue)
