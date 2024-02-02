@@ -47,16 +47,19 @@ Sunday                   70 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TOML                     1 min               ██████████████░░░░░░░░░░░   57.19 % 
+Python                   0 secs              ██████████░░░░░░░░░░░░░░░   39.97 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+employee_hierarchy       2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +77,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zemelko/zemelko/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2024 22:11:02 UTC
+ Last Updated on 02/02/2024 00:49:32 UTC
 <!--END_SECTION:waka-->
 
 ## Contacts
