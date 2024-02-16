@@ -4,7 +4,7 @@ Hi there! My name is Nikolay Zemelko.
 I am an Python developer.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,7 +78,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zemelko/zemelko/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2024 12:18:53 UTC
+ Last Updated on 16/02/2024 14:10:58 UTC
 <!--END_SECTION:waka-->
 
 ## Contacts
