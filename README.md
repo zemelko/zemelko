@@ -4,8 +4,6 @@ Hi there! My name is Nikolay Zemelko.
 I am an Python developer.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -18,45 +16,6 @@ I am an Python developer.
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-🌆 Daytime                202 commits         ███████████░░░░░░░░░░░░░░   42.53 % 
-🌃 Evening                236 commits         ████████████░░░░░░░░░░░░░   49.68 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   95 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Tuesday                  50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Wednesday                68 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Thursday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Friday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Saturday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Sunday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -72,7 +31,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zemelko/zemelko/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 14:40:46 UTC
+ Last Updated on 14/04/2024 22:28:31 UTC
 <!--END_SECTION:waka-->
 
 ## Contacts
