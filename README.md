@@ -18,7 +18,7 @@ I am an Python developer.
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -62,9 +62,9 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ████████████████████░░░░░   81.82 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   9 repos             ███████████████████░░░░░░   75.00 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
@@ -74,7 +74,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zemelko/zemelko/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 18:23:14 UTC
+ Last Updated on 26/06/2025 20:17:53 UTC
 <!--END_SECTION:waka-->
 
 ## Contacts
