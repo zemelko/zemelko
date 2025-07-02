@@ -4,11 +4,15 @@ Hi there! My name is Nikolay Zemelko.
 I am an Python developer.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%202%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 48.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 27 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -70,7 +74,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zemelko/zemelko/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2025 22:15:23 UTC
+ Last Updated on 02/07/2025 01:18:35 UTC
 <!--END_SECTION:waka-->
 
 ## Contacts
