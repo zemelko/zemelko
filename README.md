@@ -4,8 +4,6 @@ Hi there! My name is Nikolay Zemelko.
 I am an Python developer.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2029%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -20,51 +18,6 @@ I am an Python developer.
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-🌆 Daytime                202 commits         ███████████░░░░░░░░░░░░░░   43.25 % 
-🌃 Evening                233 commits         ████████████░░░░░░░░░░░░░   49.89 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   94 commits          █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Tuesday                  50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Wednesday                66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Thursday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Friday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Saturday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Sunday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -80,7 +33,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zemelko/zemelko/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 16:09:17 UTC
+ Last Updated on 06/08/2026 23:54:13 UTC
 <!--END_SECTION:waka-->
 
 ## Contacts
